@@ -1,0 +1,32 @@
+.colortext {
+  color: aquamarine;
+}
+
+.colorquote {
+  color: aquamarine;
+}
+
+body {
+  border-radius: 20px;
+  background: url("img/shutterstock_1474005908.jpg") no-repeat center fixed;
+  background-size: cover;
+  margin: auto;
+  padding: 25px 150px 50px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  width: 1300px;
+  text-align: center;
+  display: block;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: rgb(151, 73, 0);
+  font-size: 25px;
+}
+
+.centerimage {
+  margin-left: auto;
+  margin-right: 600px;
+
+  border-radius: 20px;
+}
